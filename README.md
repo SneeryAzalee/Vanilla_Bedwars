@@ -5,7 +5,7 @@ The latest map is in the beta version and can be played on Minecraft 1.18.2 or r
 
 **This version currently has no generators and shops yet but you are provided with items nonetheless. Will also only support 2 players.**
 
-The map is very much intended to be just a 1 on 1 match with your friend or someone that you want to challenge. The pvp system uses the 1.9+ mechanic just to spice it up a little bit. I will keep this repository maintained for upcoming releases.
+The map is very much intended to be just a 1 on 1 match with your friend or someone that you want to challenge. The pvp system uses the 1.9+ mechanic just to spice it up a little. I will keep this repository maintained for upcoming releases.
 
 ###### - Credit to [Isaac Wilkins](https://www.youtube.com/channel/UCj3YBsTJRYU_erARjtaHqVw) for the [soundtrack](https://youtu.be/gR-BKXv1IfU)
 
