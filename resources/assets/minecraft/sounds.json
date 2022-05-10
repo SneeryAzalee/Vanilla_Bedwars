@@ -1,0 +1,14 @@
+{
+    "custom.match_music": {
+      "sounds": [
+        "custom/parkour_tag"]
+    
+    },
+
+    "custom.kill_sound": {
+      "sounds": [
+        "custom/kill_sound"]
+      
+    }
+
+}
