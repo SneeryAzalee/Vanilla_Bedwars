@@ -1,7 +1,7 @@
 # Vanilla Bedwars
 **Popular gamemode from various servers that I'm attempting to recreate/modify the entire thing in vanilla minecraft.**
 # [Download](https://github.com/SneeryAzalee/Vanilla_Bedwars/raw/main/download/Vanilla%20Bedwars.zip) map
-The latest map is in the beta version and can be played on Minecraft 1.18.2 or related. Take note that this is a work in progress so current experiences might be subject to change.
+The latest map is in the beta version and can be played on Minecraft 1.19 or related. Take note that this is a work in progress so current experiences might be subject to change.
 
 **This version currently has no generators and shops yet but you are provided with items nonetheless. Will also only support 2 players.**
 
